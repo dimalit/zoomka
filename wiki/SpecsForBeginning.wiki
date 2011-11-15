@@ -14,6 +14,7 @@ http://zoomka.googlecode.com/svn/wiki/Project_for_Beginnging.gif
 = Задания на дом =
 *Алифиренко*
 Упаковка функций PoloLibrary в класс, интегрирование под ООП
+
 *Борщов*
 
 *Литвинов*
